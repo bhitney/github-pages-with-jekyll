@@ -22,4 +22,5 @@ collections:
     permalink       : /plans/:collection/:path/
   azure  :
     output          : true
+    permalink       : /plans/:collection/:path/:name
   
