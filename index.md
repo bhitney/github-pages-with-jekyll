@@ -1,3 +1,9 @@
-# Index page
+(index content here)
 
-Index content
+{% for plan in site.plans %}
+  <h2>
+    <a href="{{ plan.url }}">
+      {{ plan.name }} - {{ plan.scenario }}
+    </a>
+  </h2>
+{% endfor %}
