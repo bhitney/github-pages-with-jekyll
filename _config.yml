@@ -10,3 +10,17 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
+
+collections_dir: plans
+
+collections:
+  modern_workplace  :
+    output          : true
+    permalink       : /:collection/:path/
+  business_applications :
+    output          : true
+    permalink       : /:collection/:path/
+  azure  :
+    output          : true
+    permalink       : /:collection/:path/
+  
