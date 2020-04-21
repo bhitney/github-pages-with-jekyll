@@ -1,3 +1,3 @@
-# test github pages
+# Index page
 
-content here
+Index content
