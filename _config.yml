@@ -16,11 +16,11 @@ collections_dir: plans
 collections:
   modern_workplace  :
     output          : true
-    permalink       : /:collection/:path/
+    permalink       : /plans/:collection/:path/
   business_applications :
     output          : true
-    permalink       : /:collection/:path/
+    permalink       : /plans/:collection/:path/
   azure  :
     output          : true
-    permalink       : /:collection/:path/
+    permalink       : /plans/:collection/:path/
   
