@@ -1,6 +1,6 @@
 (index content here)
 
-{% for plan in site.plans %}
+{% for plan in site.azure %}
   Plan: 
   <h2>
     <a href="{{ plan.url }}">
