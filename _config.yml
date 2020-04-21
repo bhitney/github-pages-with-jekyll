@@ -1,8 +1,8 @@
-title: Title Here
+title: YAML Title
 author: bhitney
 email: bhitney@microsoft.com
 description: > # this means to ignore newlines until "baseurl:"
-  Description here
+  YAML Description
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
